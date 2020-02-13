@@ -234,6 +234,14 @@ export default connect(stateToProps, dispatchToProps)(TodoList);
 export default connect(stateToProps, dispatchToProps)(TodoList);
 ```
 
-> connect 的作用是把 UI 组件（无状态组件）和业务逻辑代码的分开，然后通过 connect 再链接到一起，让代码更加清晰和易于维护。这也是 React-Redux 最大的有点
-> connect 的作用是把 UI 组件（无状态组件）和业务逻辑代码的分开，然后通过 connect 再链接到一起，让代码更加清晰和易于维护。这也是 React-Redux 最大的有点
-> connect 的作用是把 UI 组件（无状态组件）和业务逻辑代码的分开，然后通过 connect 再链接到一起，让代码更加清晰和易于维护。这也是 React-Redux 最大的有点
+> connect 的作用是把 UI 组件（无状态组件）和业务逻辑代码的分开，然后通过 connect 再链接到一起，让代码更加清晰和易于维护。
+
+---
+
+> connect 的作用是把 UI 组件（无状态组件）和业务逻辑代码的分开，然后通过 connect 再链接到一起，让代码更加清晰和易于维护。
+
+---
+
+> connect 的作用是把 UI 组件（无状态组件）和业务逻辑代码的分开，然后通过 connect 再链接到一起，让代码更加清晰和易于维护。
+
+---
